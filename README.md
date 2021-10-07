@@ -1,5 +1,5 @@
 # FootballDraw
-Predicting a world cups results based off real world team data. Built to simulate a football world cup, using date found on all the participating teams performance.
+Predicting world cup results based off real team data. Built to simulate a football world cup, using data found on all the participating teams performance.
 
 ### Screen Capture
 ![](assets/recording_001.gif)
